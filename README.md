@@ -1,1 +1,1 @@
-# test11111
+# Dokumentacja API Allegro
